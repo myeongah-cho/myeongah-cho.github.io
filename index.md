@@ -1,24 +1,19 @@
 ---
 layout: page
-title: Cloud Researcher
-subtitle: Artificial Intelligence Research Laboratory, ETRI
-cover-img: /assets/img/itu-seokho-m4.jpg
+title: AI Researcher
+subtitle: Computer Vision
+cover-img: /assets/img/bg1.jpg
 ---
 
 <br/>
 
 ## About me
 
-**MyeongAh Cho** is a **_senior researcher_** and **_open source special fellow_** of [ETRI](https://www.etri.re.kr/kor/main/main.etri) (Korean government-funded national research institute). He designs system architectures and devises sophisticated algorithms to accomplish national R&D projects in cloud computing domain.
+**MyeongAh Cho** is a **_Ph.D Candidate_** and **_AI Researcher_** of [Image and Video Pattern Recognition Lab.](http://mvp.yonsei.ac.kr/), Electrical & Electronic Engineering, Yonsei University. She focuses on multiple aspects of computer vision – from processing images and videos, to applying and analyzing with pattern recognition.
 
-He has a broad technical background in cloud computing, multi-agent systems, resource management, and decision-making algorithms. He has published more than 20 international [research papers](https://scholar.google.com/citations?user=seokhoson) including highly cited top journals. His research has been presented in several conferences and organizations.
+She has a broad technical background in AI, deep learning, computer vision, and image processing. She has published [international papers](https://scholar.google.co.kr/citations?hl=ko&user=HLFojbcAAAAJ) including top-tier conference. She is interested in visual (image/video) representation learning with vaious models, datasets, and supervisions. Recently, her research topics are about video anomaly detection, face recognition, and 3d scene reconstruction. 
 
-He is carrying out various activities including international standardizations ([ITU-T](https://www.itu.int/en/ITU-T/about/Pages/default.aspx) standards), paper reviews for research journals, and contributions to open source projects.
-
-He is a founding member of the open souce project [Cloud-Barista](https://github.com/cloud-barista) and the leader and maintainer of [CB-Tumblebug](https://github.com/cloud-barista/cb-tumblebug) project.
-Also, he is a member of [Kubernetes](https://kubernetes.io/) and approver/reviewer of localization contents in Kubernetes [Dashboard](https://github.com/kubernetes/dashboard) and [Website](https://github.com/kubernetes/website).
-
-He loves to bring new ideas and share it with collaborators. Hello world! &#128525;
+More information can be found on her CV.
 
 ## Contact
 

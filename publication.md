@@ -33,6 +33,7 @@ title: Publication
 3. "Three-Dimensional Rotation Angle Preprocessing and Weighted Blending for Fast Panoramic Image Method", J_ournal of Broadcast Engineering_, 2018, **M Cho**, J Kim, K Kim
 4. "Preprocessing for performace improvement of Disparity Map Using Stereo Images", _KISTI_, 2017, **M Cho**, H Kang, S Kim, D Kang, K Kim
 
+<br/>
 
 # Patents & Software Copyrights
 
